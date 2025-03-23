@@ -11,7 +11,9 @@ description: >-
 featuredImage:
   type: ImageBlock
   url: /images/Pathfactory-Thumbnail-PR-Wolverhampton.jpg
-  altText: Project thumbnail image
+  altText: >-
+    An image of the Wolverhampton Wanderers FC club badge positioned on top of a
+    dark background
 media:
   type: ImageBlock
   url: /images/bg2.jpg
