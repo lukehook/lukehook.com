@@ -57,7 +57,7 @@ sections:
           - pl-4
           - pr-4
         textAlign: left
-    subtitle: Projects
+    subtitle: Clients
   - type: FeaturedPostsSection
     elementId: ''
     colors: colors-f
