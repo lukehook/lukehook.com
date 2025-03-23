@@ -11,7 +11,7 @@ description: >-
 featuredImage:
   type: ImageBlock
   url: /images/1167572.png
-  altText: Project thumbnail image
+  altText: Tottenham Hostpur logo
 media:
   type: ImageBlock
   url: /images/bg1.jpg
