@@ -34,18 +34,15 @@ sections:
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
-    actions:
-      - type: Link
-        label: See all projects
-        url: /projects
+    actions: []
     showDate: false
     showDescription: true
     showFeaturedImage: true
     showReadMoreLink: true
     variant: variant-b
     projects:
-      - content/pages/projects/project-two.md
       - content/pages/projects/project-one.md
+      - content/pages/projects/project-two.md
       - content/pages/projects/project-three.md
     styles:
       self:
@@ -57,34 +54,7 @@ sections:
           - pl-4
           - pr-4
         textAlign: left
-    subtitle: Projects
-  - type: FeaturedPostsSection
-    elementId: ''
-    colors: colors-f
-    variant: variant-d
-    subtitle: Featured Posts
-    showFeaturedImage: false
-    actions:
-      - type: Link
-        label: See all posts
-        url: /blog
-    posts:
-      - content/pages/blog/post-six.md
-      - content/pages/blog/post-four.md
-      - content/pages/blog/post-three.md
-    showDate: true
-    showExcerpt: true
-    showReadMoreLink: true
-    styles:
-      self:
-        height: auto
-        width: narrow
-        padding:
-          - pt-28
-          - pb-48
-          - pl-4
-          - pr-4
-        textAlign: left
+    subtitle: Clients
   - type: ContactSection
     colors: colors-f
     backgroundSize: full
