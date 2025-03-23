@@ -18,18 +18,18 @@
             },
             {
                 "type": "Social",
-                "altText": "GitHub",
-                "label": "GitHub",
-                "url": "https://github.com/lukehook",
-                "icon": "github"
-            },
-            {
-                "type": "Social",
                 "label": "Facebook",
                 "altText": "",
                 "url": "https://bsky.app/profile/lukehook.com",
                 "icon": "bluesky",
                 "elementId": ""
+            },
+            {
+                "type": "Social",
+                "altText": "GitHub",
+                "label": "GitHub",
+                "url": "https://github.com/lukehook",
+                "icon": "github"
             }
         ],
         "styles": {
