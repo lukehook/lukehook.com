@@ -87,7 +87,7 @@ sections:
         - name: address
           label: Address
           hideLabel: true
-          placeholder: Address
+          placeholder: Message
           isRequired: true
           width: 1/2
           type: TextFormControl
