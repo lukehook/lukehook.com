@@ -12,6 +12,7 @@ featuredImage:
   type: ImageBlock
   url: /images/1167572.png
   altText: Tottenham Hostpur logo
+  caption: A picture of the Tottenham Hotspur club badge positioned above the club name
 media:
   type: ImageBlock
   url: /images/bg1.jpg
