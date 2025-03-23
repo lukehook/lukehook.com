@@ -65,7 +65,7 @@ sections:
       fields:
         - name: name
           label: Name
-          hideLabel: true
+          hideLabel: false
           placeholder: Name
           isRequired: true
           width: 1/2
