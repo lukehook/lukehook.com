@@ -1,6 +1,6 @@
 {
     "type": "Config",
-    "favicon": "/images/favicon.svg",
+    "favicon": "/images/IMG_8951-EFFECTS.jpg",
     "header": {
         "type": "Header",
         "headerVariant": "variant-c",
@@ -88,5 +88,7 @@
                 ]
             }
         }
-    }
+    },
+    "titleSuffix": " | www.lukehook.com",
+    "defaultSocialImage": "/images/IMG_8951-EFFECTS.jpg"
 }

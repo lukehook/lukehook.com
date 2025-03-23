@@ -1,25 +1,18 @@
 ---
 type: PageLayout
 title: Home
-colors: colors-a
-backgroundImage:
-  type: BackgroundImage
-  url: /images/bg1.jpg
-  backgroundSize: cover
-  backgroundPosition: center
-  backgroundRepeat: no-repeat
-  opacity: 75
+colors: colors-b
 sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
     title: >-
-      I’m a developer, digital artist, consultant and a bunch of other
-      impressive titles and buzz words.
+      I’m a developer, speaker, Pokémon trainer and a bunch of other impressive
+      titles and buzz words.
     subtitle: >-
-      This is my info—I’m sharing it all this with ya’ll to impress you with all
-      the hard work I’ve done in the past few years. Once you’re impressed, you
-      can continue to scroll down to see more details and credentials about me.
+      This is my info - a short and sweet soliloquy about my career up to date.
+      Once you've come to terms with being suitably unimpressed you can continue
+      to scroll down and email me to tell me if you so wish.
     styles:
       self:
         height: auto
@@ -128,11 +121,6 @@ sections:
           isRequired: true
           width: 1/2
           type: TextFormControl
-        - name: updatesConsent
-          label: Sign me up to recieve updates
-          isRequired: false
-          width: full
-          type: CheckboxFormControl
       submitLabel: "Submit \U0001F680"
       styles:
         self:
