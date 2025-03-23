@@ -1,7 +1,7 @@
 ---
 type: PageLayout
 title: Home
-colors: colors-d
+colors: colors-c
 sections:
   - elementId: ''
     colors: colors-f
@@ -65,14 +65,14 @@ sections:
       fields:
         - name: name
           label: Name
-          hideLabel: true
+          hideLabel: false
           placeholder: Name
           isRequired: true
           width: 1/2
           type: TextFormControl
         - name: email
           label: Email
-          hideLabel: true
+          hideLabel: false
           placeholder: Email
           isRequired: true
           width: 1/2
