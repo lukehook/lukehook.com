@@ -10,9 +10,9 @@ sections:
       I’m a developer, speaker, Pokémon trainer and a bunch of other impressive
       titles and buzz words.
     subtitle: >-
-      This is my info - a short and sweet once you've come to terms with being
-      suitably unimpressed you can continue to scroll down and email me to tell
-      me if you so wish.
+      This is my info - a short and sweet soliloquy about my career up to date.
+      Once you've come to terms with being suitably unimpressed you can continue
+      to scroll down and email me to tell me if you so wish.
     styles:
       self:
         height: auto
