@@ -14,6 +14,9 @@ featuredImage:
   altText: >-
     An image of the Wolverhampton Wanderers FC club badge positioned on top of a
     dark background
+  caption: >-
+    An image of the Wolverhampton Wanderers FC club badge positioned on top of a
+    dark background
 media:
   type: ImageBlock
   url: /images/bg2.jpg
