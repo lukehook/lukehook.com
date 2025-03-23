@@ -12,7 +12,7 @@ featuredImage:
   type: ImageBlock
   url: >-
     /images/british-vacuum-cleaner-and-hand-blowdryer-maker-dyson-could-make-evs-next-105992_1.jpg
-  altText: Project thumbnail image
+  altText: An image of the Dyson company logo
 media:
   type: ImageBlock
   url: /images/bg3.jpg
