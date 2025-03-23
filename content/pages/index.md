@@ -83,7 +83,7 @@ sections:
           hideLabel: false
           placeholder: Type your message here
           width: full
-          isRequired: false
+          isRequired: true
       submitLabel: "Submit \U0001F680"
       styles:
         self:
